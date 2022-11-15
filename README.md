@@ -18,7 +18,11 @@ The process to create the tectonic plate data was the following: Pass the tecton
 
 This is shown in the following screenshot of the js code:
 
+![Screenshot](https://github.com/chgallegos/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/resources/layers.png)
 
+![Screenshot](https://github.com/chgallegos/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/resources/layers2.png)
+
+![Screenshot](https://github.com/chgallegos/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/resources/retrieve_geojson.png)
 
 
 
